@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "app": {
     "path": "releases/Hydrogen.exe",
-    "sha256": "CA90EE1BED9E164ABE525E2B88D888742CEFA2496218BBCBB7417B3D3EA0F22C"
+    "sha256": "830466D8EA2AAA89350D695FE66C2D30BFA3726B9386A613E66A8C8AF4CB718C"
   },
   "dependencies": {
     "path": "releases/dependencies.zip"
